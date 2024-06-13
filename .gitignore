@@ -1,6 +1,6 @@
 # User added
 *.zip
-*.csv
+#*.csv
 .vscode/
 
 # Byte-compiled / optimized / DLL files
